@@ -1,4 +1,4 @@
-# Evaluating Memanto on DolphinBench for Memory-Dependent Tool Use
+# Evaluating Memanto for Tool Using AI agents
 
 ### 1. Clone the Memanto benchmark repo
 
